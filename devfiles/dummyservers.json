@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "Ashenvale",
+    "Description": "The best server of Lineage 2",
+    "Chronicle": "Interlude",
+    "EXP": "x1",
+    "ADENA": "x2",
+    "SPOIL": "x1"
+  },
+  {
+    "Name": "Giran",
+    "Description": "A classic server with a vibrant community",
+    "Chronicle": "Interlude",
+    "EXP": "x5",
+    "ADENA": "x3",
+    "SPOIL": "x2"
+  },
+  {
+    "Name": "Gludio",
+    "Description": "Experience the glory of Lineage 2 on this server",
+    "Chronicle": "Gracia Final",
+    "EXP": "x10",
+    "ADENA": "x4",
+    "SPOIL": "x3"
+  },
+  {
+    "Name": "Dion",
+    "Description": "Journey through Lineage 2's epic tales",
+    "Chronicle": "High Five",
+    "EXP": "x15",
+    "ADENA": "x6",
+    "SPOIL": "x4"
+  },
+  {
+    "Name": "Oren",
+    "Description": "Forge your destiny on this server",
+    "Chronicle": "Freya",
+    "EXP": "x20",
+    "ADENA": "x8",
+    "SPOIL": "x5"
+  },
+  {
+    "Name": "Aden",
+    "Description": "Where legends are born",
+    "Chronicle": "Epilogue",
+    "EXP": "x25",
+    "ADENA": "x10",
+    "SPOIL": "x6"
+  },
+  {
+    "Name": "Adena",
+    "Description": "The heart of Lineage 2 awaits",
+    "Chronicle": "God",
+    "EXP": "x30",
+    "ADENA": "x12",
+    "SPOIL": "x7"
+  },
+  {
+    "Name": "Talking Island",
+    "Description": "Start your adventure here",
+    "Chronicle": "Interlude",
+    "EXP": "x3",
+    "ADENA": "x2",
+    "SPOIL": "x1"
+  },
+  {
+    "Name": "Heine",
+    "Description": "The water city awaits",
+    "Chronicle": "Gracia Final",
+    "EXP": "x7",
+    "ADENA": "x4",
+    "SPOIL": "x3"
+  },
+  {
+    "Name": "Hunter's Village",
+    "Description": "Perfect for PvP lovers",
+    "Chronicle": "High Five",
+    "EXP": "x12",
+    "ADENA": "x5",
+    "SPOIL": "x3"
+  },
+  {
+    "Name": "Schuttgart",
+    "Description": "Enter the snowy paradise",
+    "Chronicle": "Freya",
+    "EXP": "x18",
+    "ADENA": "x9",
+    "SPOIL": "x4"
+  },
+  {
+    "Name": "Rune",
+    "Description": "Home of the nobles",
+    "Chronicle": "Epilogue",
+    "EXP": "x22",
+    "ADENA": "x11",
+    "SPOIL": "x5"
+  },
+  {
+    "Name": "Goddard",
+    "Description": "Unveil the mysteries of the north",
+    "Chronicle": "Interlude",
+    "EXP": "x4",
+    "ADENA": "x3",
+    "SPOIL": "x2"
+  },
+  {
+    "Name": "Innadril",
+    "Description": "The jewel of the lake",
+    "Chronicle": "Gracia Final",
+    "EXP": "x9",
+    "ADENA": "x6",
+    "SPOIL": "x4"
+  },
+  {
+    "Name": "Gludin",
+    "Description": "The town of traders",
+    "Chronicle": "High Five",
+    "EXP": "x14",
+    "ADENA": "x7",
+    "SPOIL": "x3"
+  },
+  {
+    "Name": "Florin",
+    "Description": "Explore the enchanted forest",
+    "Chronicle": "Freya",
+    "EXP": "x20",
+    "ADENA": "x8",
+    "SPOIL": "x4"
+  },
+  {
+    "Name": "Devastated Castle",
+    "Description": "Conquer the ruins",
+    "Chronicle": "Epilogue",
+    "EXP": "x26",
+    "ADENA": "x13",
+    "SPOIL": "x6"
+  },
+  {
+    "Name": "Wastelands",
+    "Description": "Survive the harsh lands",
+    "Chronicle": "Interlude",
+    "EXP": "x6",
+    "ADENA": "x4",
+    "SPOIL": "x2"
+  },
+  {
+    "Name": "Elven Village",
+    "Description": "Feel the magic of the elves",
+    "Chronicle": "Gracia Final",
+    "EXP": "x8",
+    "ADENA": "x5",
+    "SPOIL": "x3"
+  },
+  {
+    "Name": "Dark Elven Village",
+    "Description": "Embrace the shadows",
+    "Chronicle": "High Five",
+    "EXP": "x11",
+    "ADENA": "x6",
+    "SPOIL": "x4"
+  },
+  {
+    "Name": "Orc Village",
+    "Description": "Strength and honor",
+    "Chronicle": "Freya",
+    "EXP": "x15",
+    "ADENA": "x8",
+    "SPOIL": "x5"
+  },
+  {
+    "Name": "Dwarven Village",
+    "Description": "Craft your destiny",
+    "Chronicle": "Epilogue",
+    "EXP": "x21",
+    "ADENA": "x11",
+    "SPOIL": "x6"
+  }
+]
