@@ -43,7 +43,7 @@ export default function Home() {
             // onSortChange={handleSortChange}
           />
         </main>
-        <aside class="bg-green-300 flex-1">Right Sidebar</aside>
+        <aside className="bg-green-300 flex-1">Right Sidebar</aside>
       </div>
       <footer className="bg-slate-300">Footer</footer>
     </>

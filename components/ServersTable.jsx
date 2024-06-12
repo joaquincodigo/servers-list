@@ -1,6 +1,6 @@
 import React from "react";
 
-const ServersList = ({ servers }) => (
+const ServersTable = ({ servers }) => (
   <table className="bg-orange-300 w-full">
     <thead>
       <tr>
@@ -16,6 +16,10 @@ const ServersList = ({ servers }) => (
       {servers.map((server, index) => (
         <tr key={index}>
           <td>{server.Name}</td>
+          <td>{server.Description}</td>
+          <td>{server.Chronicle}</td>
+          <td>{server.EXP}</td>
+          <td>{server.ADENA}</td>
           <td>{server.SPOIL}</td>
         </tr>
       ))}
@@ -23,4 +27,4 @@ const ServersList = ({ servers }) => (
   </table>
 );
 
-export default ServersList;
+export default ServersTable;
