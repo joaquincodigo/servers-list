@@ -9,9 +9,7 @@ const useFetchServers = () => {
   useEffect(() => {
     const fetchServersData = async () => {
       try {
-        // Simulated fetch request, replace with actual API call
-        const response = await import("../devfiles/dummy_server_list.json"); // Replace with actual fetch API call
-
+        let response = await import("../devfiles/dummy_server_list.json"); // dummy fetch
         setServersData(response.default);
         setIsLoading(false);
       } catch (error) {

@@ -1,1 +1,7 @@
-> 
+# ToDo
+
+>  Implement pagination in server table
+>  Pull only first 20 results in the server table
+>  Add lineage icons dummy images.
+>  Extract the parts of the UI that are static into the layout.js file
+>  

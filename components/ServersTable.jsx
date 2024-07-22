@@ -13,7 +13,7 @@ const ServersTable = ({ servers }) => (
       </tr>
     </thead>
     <tbody>
-      {servers.map((server, index) => (
+      {servers.slice(0, 15).map((server, index) => (
         <tr key={index}>
           <td>{server.Name}</td>
           <td>{server.Description}</td>
@@ -24,6 +24,18 @@ const ServersTable = ({ servers }) => (
         </tr>
       ))}
     </tbody>
+    <div className="table-footer flex justify-center">
+      <div className="flex flex-row">
+        <div>Page ? of ?</div>
+        <div>Total Servers: {servers.length}</div>
+        <label for="lines">Lines per page</label>
+        <select name="line" id="lines">
+          <option value="20">20 lines</option>
+          <option value="50">50 lines</option>
+          <option value="100">100 lines</option>
+        </select>
+      </div>
+    </div>
   </table>
 );
 
