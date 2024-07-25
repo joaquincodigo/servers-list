@@ -6,6 +6,10 @@ const PaginationControl = ({ servers }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [pagesList, setPagesList] = useState([]);
 
+  const handlePageClick = () => {
+    alert("Hello World");
+  };
+
   useEffect(() => {
     // First, we ensure that the amount of pages needed is an integer
     const totalPages = Math.ceil(servers.length / linesPerPage);
@@ -20,8 +24,15 @@ const PaginationControl = ({ servers }) => {
     <div className="TableFooter flex flex-col items-center bg-slate-300">
       <div>
         Page {currentPage} of{" [ "}
-        {pagesList.map((element, index) => (
-          <span key={index}>{element} </span> // Corrected JSX
+        {pagesList.map((page, index) => (
+          <button
+            href="#"
+            key={index}
+            className="underline"
+            onClick={handlePageClick}
+          >
+            {page}{" "}
+          </button> // Corrected JSX
         ))}
         {" ]"}
       </div>
